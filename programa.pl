@@ -1,4 +1,4 @@
- Aquí va el código.
+% Aquí va el código.
 vocaloid(megurineLuka).
 vocaloid(hatsuneMiku).
 vocaloid(gumi).
